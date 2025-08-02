@@ -3,4 +3,6 @@ i will add the employ :
 albara : 22
 mohammad : 99 
 omar : 82 
+zaid :0111
 ali :88
+osama :0
